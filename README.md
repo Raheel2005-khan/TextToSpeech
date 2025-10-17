@@ -1,8 +1,6 @@
 # TextToSpeech ⚡
 
-[![License](https://github.com/Raheel2005-khan/TextToSpeech/blob/main/LICENSE)](License)
-[![Tssuac](https://ing.schiolds.io/github.com/Raheel2005-khan/TextToSpeech)
----
+## @NetHuTech [YouTube]()
 
 ## 🚀 Features
 
