@@ -1,7 +1,6 @@
 # TextToSpeech ⚡
 
-A Python-based text-to-speech (TTS) project that converts input text into audio output using deep learning / signal processing techniques.  
-Built and maintained by **@Raheel2005-khan**.
+[![License](https://github.com/Raheel2005-khan/TextToSpeech/blob/main/LICENSE)]
 
 ---
 
